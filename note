@@ -1,0 +1,7 @@
+install the mongodb on local
+install java
+download mongodb-java-driver in current path
+unzip mongo-driver in same path
+cretae .java and complile in same path
+execute .class file
+
